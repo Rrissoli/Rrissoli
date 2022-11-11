@@ -25,3 +25,18 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  ## ⚙️ &nbsp;GitHub analytics
+
+<div align="center">
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rrissoli&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&card_width=60"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrissoli&layout=compact&langs_count=7&theme=blue-green"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rrissoli&theme=blue-green">
+</div>
+ 
+
+
+
+</div>
+
