@@ -25,7 +25,7 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  ###⚙️ &nbsp;GitHub analytics
+  ### ⚙️ &nbsp;GitHub analytics
 
 <div align="center">
 
