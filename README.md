@@ -3,9 +3,6 @@
 
 <div align="center">
   <a href="https://github.com/Rrissoli">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrissoli&layout=compact&langs_count=7&theme=maroongold"/>
-
  <h1 align="center">Hi 👋, I'm Raphael Rissoli</h1>
 <h3 align="center">Full-Stack software developer, future bachelor in software engineering. Specializing in Back-end, machine learning, artificial intelligence and chatbots. In addition, I believe in changes through education, so my mission as a professional is to democratize education through technology.</h3>
 
