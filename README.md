@@ -1,31 +1,5 @@
 
 
-
-<div align="center">
-  <a href="https://github.com/Rrissoli">
- <h1 align="center">Hi 👋, I'm Raphael Rissoli</h1>
-<h3 align="center">Full-Stack software developer, future bachelor in software engineering. Specializing in Back-end, machine learning, artificial intelligence and chatbots. In addition, I believe in changes through education, so my mission as a professional is to democratize education through technology.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rrissoli&label=Profile%20views&color=0e75b6&style=flat" alt="rrissoli" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rrissoli" alt="rrissoli" /></a> </p>
-
-- 🔭 I’m currently working on [Ambev Data Orquestration](https://ambev.saltsystems.com.br)
-
-- 🌱 I’m currently learning **Java/Spring Boot Framework, python/django, Data Structure**
-
-- 👯 I’m looking to collaborate on [Bank Itaú Data Structure and Orquestration](https://crm.bpnegocieaqui.com.br)
-
-- 🤝 I’m looking for help with **Bank Daycoval**
-
-- 💬 Ask me about **Nodejs/Javascript, ReactJs, Postgres and SQL**
-
-- 📫 How to reach me **raphaelcrissoli@gmail.com**
-
-- 📄 Know about my experiences [Full Stack Developer Full Full Stack Developer Javascript, Typescript, React and Node for building front and back applications. - Implementation of automated solutions via Whatsapp and Telegram - Build REST API - Environment maintenance in AWS and Docker - Use of ElasticSearch, Redis, Mautic, Airtable and MongoDB - Javascript, Typescript, React and Node systems to build front and back applications. - Implementation of automated solutions via Whatsapp and Telegram - REST API construction - Environment maintenance in AWS and Docker - Use of ElasticSearch, Redis, Mautic, Airtable and MongoDB systems - Javascript, Typescript, React and Node to build front and back applications. - Implementation of automated solutions via Whatsapp and Telegram - REST API construction - Environment maintenance in AWS and Docker - Use of ElasticSearch, Redis, Mautic, Airtable and MongoDB systems - Javascript, Typescript, React and Node to build front and back applications. - Implementation of automated solutions via Whatsapp and Telegram - REST API construction - Environment maintenance in AWS and Docker - Use of ElasticSearch, Redis, Mautic, Airtable and MongoDB systems - Javascript, Typescript, React and Node to build front and back applications. - Implementation of automated solutions via Whatsapp and Telegram - REST API construction - Environment maintenance in AWS and Docker - Use of ElasticSearch, Redis, Mautic, Airtable and MongoDB systems - Javascript, Typescript, React and Node to build front and back applications. - Implementation of automated solutions via Whatsapp and Telegram - REST API construction - Environment maintenance in AWS and Docker - Use of ElasticSearch, Redis, Mautic, Airtable and MongoDB systems - Javascript, Typescript, React and Node to build front and back applications. - Implementation of automated solutions via Whatsapp and Telegram - REST API construction - Environment maintenance in AWS and Docker - Use of ElasticSearch, Redis, Mautic, Airtable and MongoDB systems - Javascript, Typescript, React and Node to build front and back applications. - Implementation of automated solutions via Whatsapp and Telegram - REST API construction - Environment maintenance in AWS and Docker - Use of ElasticSearch, Redis, Mautic, Airtable and MongoDB systems.
-
-- ⚡ Fun fact **cats, play rpg games and coffe**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
